@@ -88,6 +88,13 @@
     <Compile Include="Qb\QbItemUnknown.cs" />
     <Compile Include="Qb\QbKey.cs" />
     <Compile Include="Qb\ScriptString.cs" />
+    <Compile Include="Qb\Script\Argument.cs" />
+    <Compile Include="Qb\Script\FunctionCall.cs" />
+    <Compile Include="Qb\Script\Instruction.cs" />
+    <Compile Include="Qb\Script\IQbScriptItem.cs" />
+    <Compile Include="Qb\Script\LitHex.cs" />
+    <Compile Include="Qb\Script\LitInt.cs" />
+    <Compile Include="Qb\Script\LitQbKey.cs" />
     <Compile Include="Zlib\Adler32.cs" />
     <Compile Include="Zlib\Deflate.cs" />
     <Compile Include="Zlib\InfBlocks.cs" />
